@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(curl -s http://localhost:3002)",
+      "Bash(cat)",
+      "Read(//tmp/**)"
+    ]
+  }
+}
